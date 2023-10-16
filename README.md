@@ -1,7 +1,7 @@
 ### Olá, eu sou o David Lucas! 👋
 
 - 🌱 Estudando Python
-- 🌎 Estudando Inglês
+- 🌎 Inglês: Básico
 - 😄 Pronomes: Ele/Dele
 
 <i>"There is no tomorrow" Creed, Apollo.</i>
