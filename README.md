@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Python
 - 🌎 Inglês: Básico
-- 😄 Pronomes: Ele/Dele
 
 <i>"There is no tomorrow" Creed, Apollo.</i>
 <div style="display: inline_block"><br>
