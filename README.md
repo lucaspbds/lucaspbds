@@ -10,7 +10,7 @@
   
   ##
 <div>
-<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspbds&show_icons=true&theme=aura_dark#gh-dark-mode-only">
+<img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspbds&show_icons=true&theme=aura_dark#gh-dark-mode-only">
 </div>
 
   ##
