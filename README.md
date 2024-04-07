@@ -17,7 +17,7 @@ Estou atualmente cursando Desenvolvimento de Sistemas na Escola Estadual de Educ
 #### Contatos
 <div> 
   <a href = "mailto:davidlucas2610@gmail.com"><img width="80em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-pereira-63701b296/" target="_blank"><img width="100em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/david-lucas-pereira" target="_blank"><img width="100em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
