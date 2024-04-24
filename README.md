@@ -22,7 +22,7 @@ Estou atualmente cursando Desenvolvimento de Sistemas na Escola Estadual de Educ
 </div>
 
 <div>
-<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspbds&layout=compact&theme=dark">
+<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspbds&layout=compact&theme=dark">
 
 </div>
 
