@@ -10,7 +10,7 @@ Estou atualmente cursando o bacharelado em Ciência de Dados na Universidade Fed
 - 💻 Linguagem principal: `Python`
 - 📦 Controle de Versão do Código: `Git e Git Hub`
 - 🛠 Ferramentas: `VS Code e PyCharm`
-- 🌱Estudando `Python`
+- 🌱Estudando `Python (avançado)`
 
 ##### Creed, Apollo.
 ><i>"There is no tomorrow" </i>
