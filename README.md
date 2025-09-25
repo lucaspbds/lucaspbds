@@ -2,7 +2,7 @@
 
 #### Sobre
 
-Estou atualmente cursando Desenvolvimento de Sistemas na Escola Estadual de Educação Profissional Professor César Campelo. Por outro lado, desenvolvo diversos projetos pessoais e em equipe para colocar em prática todo o conhecimento que adquiri e aprender ainda mais com os erros e acertos. Além disso, busco me especializar como desenvolvedor Back-End.
+Estou atualmente cursando o bacharelado em Ciência de Dados na Universidade Federal do Ceará - Campus do Pici. Por outro lado, desenvolvo diversos projetos pessoais e em equipe para colocar em prática todo o conhecimento que adquiri e aprender ainda mais com os erros e acertos. Além disso, busco me especializar como cientista de Dados.
 
 #### Estado atual
 
@@ -10,7 +10,7 @@ Estou atualmente cursando Desenvolvimento de Sistemas na Escola Estadual de Educ
 - 💻 Linguagem principal: `Python`
 - 📦 Controle de Versão do Código: `Git e Git Hub`
 - 🛠 Ferramentas: `VS Code e PyCharm`
-- 🌱Estudando `Node JS`
+- 🌱Estudando `Python`
 
 ##### Creed, Apollo.
 ><i>"There is no tomorrow" </i>
